@@ -17,7 +17,7 @@ export function defaultSetting(): UserState {
     userInfo: {
       avatar: 'https://raw.githubusercontent.com/Chanzhaoyu/chatgpt-web/main/src/assets/avatar.jpg',
       name: 'ChatGPT-web',
-      description: '联系 <a mailto="hardie@vip.qq.com" class="text-blue-500" target="_blank" >Hardie</a>',
+      description: '联系 <a href="mailto:hardie@vip.qq.com" class="text-blue-500" target="_blank" >Hardie</a>',
     },
   }
 }
